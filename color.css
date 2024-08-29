@@ -1,0 +1,74 @@
+.bg{
+    background-image: url(../virat\ kohli.jpg);
+    background-repeat:repeat-x ;
+    width: 100vw;
+    height:70vh;
+}
+.one{ 
+    color:white;
+    text-align: center;
+    text-decoration: 2px solid underline;
+    text-transform: capitalize;
+    text-decoration-color: white;
+}
+.two{
+    color: white;
+    text-align: right;
+}
+.three{
+    color: white;
+    text-align: left;
+    top:70% ;
+}
+.four{
+    color: white;
+    text-align:end;
+    text-transform: capitalize;
+}
+#color{
+    background-color: chocolate;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+#text{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: 2px solid black;
+    color:blue;
+    background-color: azure;
+    text-transform: capitalize;
+}    
+img{
+    width:200px;
+    height: 100px;  
+
+}
+#gym{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: antiquewhite;
+    color: green;
+    text-transform: capitalize;
+    border: 2px solid red;
+}
+img{
+    width:250px;
+    height:150px;
+}
+.gym{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: antiquewhite;
+    color: black;
+    border: 2px solid green ;
+    text-transform: capitalize;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
